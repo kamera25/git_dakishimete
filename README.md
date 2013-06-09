@@ -1,4 +1,4 @@
-git_dakishimete
+git抱きしめて(please, git hug.)
 ===============
 
 このリポジトリは、恋愛風味ゲーム「git抱きしめて」のものです。
@@ -9,22 +9,20 @@ git_dakishimete
 ためです。
 
 もしなにかありましたら、issueに投げて下さい。早めに治します。
-
+-----
 ###どんなゲーム?
 主人公の女の子といっしょにgitを学んでいく、ノベルゲームです。
 
------
 ###ライセンス
-このゲームのライセンスですが、スクリプト(「00.txt」、「01.txt」)、
-キャラクター絵()は
-[CC BY 2.1 JP](http://creativecommons.org/licenses/by/2.1/jp/)に準じます。
-その他の配布物については一切の再配布を認めません。
+このゲームのライセンスですが、スクリプト(「00.txt」、「01.txt」)、キャラクター絵(img/chara以下)は  
+  [CC BY 2.1 JP](http://creativecommons.org/licenses/by/2.1/jp/)に準じます。  
+  その他の配布物についてはフリー素材などを使っているため、一切の再配布を認められていません。  
 
 ###ダウンロード先
 
 ###製作者
-スクリプト、話:[kamera25](https://twitter.com/csc_kamera25)
-絵 :[mimoli](http://mimoli.sakura.ne.jp/s2/)
+  スクリプト、話:[kamera25](https://twitter.com/csc_kamera25)  
+  絵 :[mimoli](http://mimoli.sakura.ne.jp/s2/)  
 
-声の出演
+声の出演  
 春野里奈 : ゆかりん
