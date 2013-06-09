@@ -15,7 +15,7 @@ git抱きしめて(please, git hug.)
 
 ###ライセンス
 このゲームのライセンスですが、スクリプト(「00.txt」、「01.txt」)、キャラクター絵(img/chara以下)は  
-  [CC BY 2.1 JP](http://creativecommons.org/licenses/by/2.1/jp/)に準じます。  
+  [CC BY-NC 2.1 JP](http://creativecommons.org/licenses/by-nc/2.1/jp/)に準じます。  
   その他の配布物についてはフリー素材などを使っているため、一切の再配布を認められていません。  
 
 ###ダウンロード先
