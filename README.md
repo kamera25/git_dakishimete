@@ -19,7 +19,7 @@ git抱きしめて(please, git hug.)
   その他の配布物についてはフリー素材などを使っているため、一切の再配布を認められていません。  
 
 ###ダウンロード先
-Windowsバイナリ : 
+Windowsバイナリ : http://www1.axfc.net/uploader/so/2929875 (パスワード:haruno)
 
 ###製作者
   スクリプト、話:[kamera25](https://twitter.com/csc_kamera25)  
