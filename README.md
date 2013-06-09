@@ -19,6 +19,7 @@ git抱きしめて(please, git hug.)
   その他の配布物についてはフリー素材などを使っているため、一切の再配布を認められていません。  
 
 ###ダウンロード先
+Windowsバイナリ : 
 
 ###製作者
   スクリプト、話:[kamera25](https://twitter.com/csc_kamera25)  
@@ -26,3 +27,9 @@ git抱きしめて(please, git hug.)
 
 声の出演  
 春野里奈 : ゆかりん
+
+###補足
+このゲームは、[広島Git勉強会201306](http://local.aguuu.com/events/15354)で発表させて頂きました。  
+スライド : http://www.slideshare.net/kamera25/3-22312676  
+Ustream : http://www.ustream.tv/recorded/33610541  
+
