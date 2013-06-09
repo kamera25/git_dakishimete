@@ -1,0 +1,143 @@
+*define
+
+;caption "gitだきしめて please, git hug."
+caption "please, git hug. Ver.0.02"
+
+
+globalon
+effect 2,10,1000
+humanz 40
+
+game
+*start
+
+bg "img\sora.jpg",6,1000
+lsp 1,"img\title.png",25,140
+print 2
+
+bexec $0
+
+;ロード
+;名前のバーを表示
+gosub *putnamebar
+
+csp 1
+setwindow 30,340,22,4,26,26,0,2,20,1,1,#333366,20,330,619,450
+
+
+goto *firstday
+;;;;;
+;goto *days6
+
+;名前を書く
+*putname
+
+lsp 8, ":s#333333$3", 50, 290
+
+
+print 1
+return
+
+;ネームバーを出す
+*putnamebar
+
+lsph 10,"img\namebar.png",25,285
+vsp 10, 1
+
+return
+
+;ネームバーを消す
+*rmnamebar
+
+csp 10
+;名前を消す
+mov $3, "　"
+gosub *putname
+
+return 
+
+;選択肢表示を出す
+*putbranch
+
+lsph 11,"img\branch.png",450,20
+vsp 11, 1
+
+return
+
+;選択肢表示を消す
+*rmbranch
+
+csp 11
+
+return
+
+;里奈を出す
+*putrina
+
+ld r,"img\chara\rina.png",7,500
+
+return
+
+;リーナスを出す
+*putlinus
+
+ld l,"img\chara\linus.png",7,500
+
+return
+
+;ジュンを出す
+*putjun
+
+ld l,"img\chara\hamanoa.png",7,500
+
+return
+
+
+;ビルを出す
+*putbill
+
+ld l,"img\chara\gate.png",7,500
+
+return
+
+;里奈を出す(普段着)
+*putrinaf
+
+ld r,"img\chara\rina_f.png",7,500
+
+return
+
+;リーナスを出す(普段着)
+*putlinusf
+
+ld l,"img\chara\linus_f.png",7,500
+
+return
+
+;ジュンを出す(普段着)
+*putjunf
+
+ld l,"img\chara\hamano_f.png",7,500
+
+return
+
+;左の人を消す
+*clearright
+
+cl r,6,500
+
+return
+
+;左の人を消す
+*clearleft
+
+cl l,6,500
+
+return
+
+
+*byebye
+
+
+end
+
