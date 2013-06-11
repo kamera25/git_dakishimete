@@ -387,7 +387,7 @@ mov $3, "ƒŠ[ƒiƒX"
 gosub *putname
 ; ------------!
 
-‚±‚ê‚Ü‚Å‚Í‚b‚r‚u‚Æ‚©‚r‚t‚a‚u‚d‚q‚r‚h‚n‚mŽg‚Á‚Ä‚½‚¯‚ÇA‚‡‚‰‚”‚Ì‚ÉƒƒŠƒbƒg‚ÍŠ´‚¶‚È‚¢‚È\
+‚±‚ê‚Ü‚Å‚Í‚b‚u‚r‚Æ‚©‚r‚t‚a‚u‚d‚q‚r‚h‚n‚mŽg‚Á‚Ä‚½‚¯‚ÇA‚‡‚‰‚”‚Ì‚ÉƒƒŠƒbƒg‚ÍŠ´‚¶‚È‚¢‚È\
 ; ------------!
 mov $3, "ƒWƒ…ƒ“"
 gosub *putname
